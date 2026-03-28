@@ -5,6 +5,15 @@ This project automates the starting and stopping of Azure virtual machines based
 
 It is useful for managing dev/test VMs that do not need to run 24/7, helping reduce cloud costs and manual effort.
 
+## Use Case
+This automation is designed for managing non-production environments (e.g., Dev/Test) where virtual machines do not need to run continuously.
+
+It helps:
+- Reduce cloud costs
+- Automate daily operations
+- Avoid manual start/stop of resources
+
+
 ---
 
 ## Features
